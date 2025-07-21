@@ -1,0 +1,10 @@
+streamlit
+pytesseract
+pdfplumber
+transformers
+torch
+plotly
+Pillow
+scispacy
+spacy
+scikit-learn
